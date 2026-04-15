@@ -60,6 +60,43 @@ Resultado después de instalar Laravel, sus componentes, y hacer el login:
 
 <img width="1906" height="551" alt="image" src="https://github.com/user-attachments/assets/0e7daaa5-44f3-4f61-a0ef-d45ef5491f0e" />
 
+Dificultades y soluciones:
+
+<img width="1917" height="1027" alt="Captura de pantalla 2026-04-08 114825" src="https://github.com/user-attachments/assets/a77e5969-fe3f-4d9e-b200-1b5780bbaf62" />
+
+En la primera mitad de mi intento, estaba usando PowerShell, el cuál me daba problemas aunque ya hubiera instalado los componentes. Luego me recomendaron pasar a
+la terminal "normal", y con eso ya pude terminar el proceso.
+
+<img width="1472" height="880" alt="Captura de pantalla 2026-04-14 145554" src="https://github.com/user-attachments/assets/43240125-0637-4ab0-aa61-56880423d760" />
+
+Otro problema fue el susto de que no me funcionaba el servidor. La solución fue simple. En vez de ingresar directo desde el navegador, me fui a la terminal y escribí
+el siguiente comando:
+
+<img width="852" height="81" alt="Captura de pantalla 2026-04-14 145821" src="https://github.com/user-attachments/assets/c6c10c7f-0863-4c9e-b969-8406c6c484e9" />
+
+Y con eso, me funcionó normal.
+
+Referencias: 
+1. https://laravel.com/docs/13.x
+   
+2. https://www.w3schools.in/laravel
+
+3. https://es.scribd.com/document/838508468/Manual-de-Laravel
+
+
+Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:
+
+Nombre: Joseph Guerra
+
+Correo: joseph.guerra1@utp.ac.pa
+
+Curso: Desarrollo de Software VII
+
+Instructor del Laboratorio: Ing. Irina Fong
+
+Fecha en que se realizó: 8 de abril, 2026
+
+
 
 
 
