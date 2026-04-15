@@ -36,7 +36,20 @@ En cuanto a la aplicación en si, esta compuesta por distintos componentes:
 
 <img width="227" height="372" alt="image" src="https://github.com/user-attachments/assets/49d84ce6-9153-4e2d-ac9f-156ed1db267e" />
 
-1.
+1. Http/Controllers/Controller.php: Es el controlador base del que heredan todos los demás controladores.
+   
+2. Http/Controllers/HomeController.php: Es el controlador específico que maneja la lógica de una ruta.
+
+3. Models/User.php: Representa la tabla users en la base de datos.
+
+4. Providers/AppServiceProvider.php: Configura servicios globales de la aplicación
+
+<img width="184" height="96" alt="image" src="https://github.com/user-attachments/assets/93d9299f-c496-4e6d-b7e8-4a853bd052c5" />
+
+5. routes/console.php: Define comandos personalizados de Artisan, la terminal de Laravel
+
+6. routes/web.php: Define las rutas web (enlaces) de la aplicación
+
 
 
 
