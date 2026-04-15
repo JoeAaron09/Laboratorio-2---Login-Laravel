@@ -48,6 +48,8 @@ En cuanto a la aplicación en si, esta compuesta por distintos componentes:
 
 5. routes/console.php: Define comandos personalizados de Artisan, la terminal de Laravel
 
+6. routes/web.php: Define las rutas web (enlaces) de la aplicación
+
 Resultado después de instalar Laravel, sus componentes, y hacer el login:
 
 <img width="1911" height="978" alt="Captura de pantalla 2026-04-08 123559" src="https://github.com/user-attachments/assets/8eb5d3d8-afc4-4f22-985f-6b5ebd44d73c" />
@@ -62,7 +64,7 @@ Resultado después de instalar Laravel, sus componentes, y hacer el login:
 
 
 
-7. routes/web.php: Define las rutas web (enlaces) de la aplicación
+
 
 
 
