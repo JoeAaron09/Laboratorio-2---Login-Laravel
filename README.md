@@ -1,15 +1,15 @@
 # Laboratorio-2---Login-Laravel
 
 Prerrequisitos:
-•	PHP versión 8.0 o superior
-•	Composer versión 2.9.5
-•	Laravel installer
-•	Paquete de WampServer
-•	Servidor Web: Apache
-•	Base de Datos: MySQL
-•	Editor de código: Visual Studio Code
-•	NPM versión 11.12.1
-•	Sistema Operativo: Windows
+\nPHP versión 8.0 o superior
+\nComposer versión 2.9.5
+\nLaravel installer
+\nPaquete de WampServer
+\nServidor Web: Apache
+\nBase de Datos: MySQL
+\nEditor de código: Visual Studio Code
+\nNPM versión 11.12.1
+\nSistema Operativo: Windows
 
 En la siguiente sección agrego algunas capturas del proceso de instalación. Honestamente, no tomé muchas porque sin querer
 me enrede más de lo esperado, y me enfoque más en cumplir con la instalación de Laravel en mi equipo y cumplir con el
