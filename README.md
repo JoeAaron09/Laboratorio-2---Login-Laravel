@@ -52,7 +52,7 @@ En cuanto a la aplicación en si, esta compuesta por distintos componentes:
 
 Resultado después de instalar Laravel, sus componentes, y hacer el login:
 
-<img width="1911" height="978" alt="Captura de pantalla 2026-04-08 123559" src="https://github.com/user-attachments/assets/8eb5d3d8-afc4-4f22-985f-6b5ebd44d73c" />
+<img width="1916" height="950" alt="Captura de pantalla 2026-04-14 152211" src="https://github.com/user-attachments/assets/6cb4fbf4-07a0-4775-8f9f-ed3e429decc5" />
 
 <img width="1914" height="955" alt="Captura de pantalla 2026-04-14 152226" src="https://github.com/user-attachments/assets/8a7a9347-bba1-4f93-95b3-035e2832062d" />
 
